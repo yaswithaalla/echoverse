@@ -1,8 +1,7 @@
-streamlit
-torch
+streamlit>=1.36.0
+torch>=2.2.0
+transformers>=4.40.0
 soundfile
-transformers
-datasets
-python-docx
-huggingface-hub
-sentencepiece
+scipy
+numpy
+gTTS
