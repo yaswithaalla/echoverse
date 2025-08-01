@@ -1,0 +1,8 @@
+streamlit
+torch
+soundfile
+transformers
+datasets
+python-docx
+huggingface-hub
+sentencepiece
