@@ -1,8 +1,9 @@
-streamlit>=1.36.0
-torch>=2.2.0
-transformers[torch,sentencepiece]>=4.40.0
-datasets>=2.20.0
+streamlit
+torch
 torchaudio
 soundfile
-scipy
-numpy
+transformers[torch,sentencepiece]==4.40.0
+datasets
+python-docx
+huggingface-hub
+sentencepiece
